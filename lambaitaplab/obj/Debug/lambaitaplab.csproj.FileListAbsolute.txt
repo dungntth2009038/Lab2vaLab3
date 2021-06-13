@@ -1,0 +1,6 @@
+C:\Users\My pc\RiderProjects\lambaitaplab\lambaitaplab\obj\Debug\lambaitaplab.csprojAssemblyReference.cache
+C:\Users\My pc\RiderProjects\lambaitaplab\lambaitaplab\obj\Debug\lambaitaplab.csproj.CoreCompileInputs.cache
+C:\Users\My pc\RiderProjects\lambaitaplab\lambaitaplab\bin\Debug\lambaitaplab.exe
+C:\Users\My pc\RiderProjects\lambaitaplab\lambaitaplab\bin\Debug\lambaitaplab.pdb
+C:\Users\My pc\RiderProjects\lambaitaplab\lambaitaplab\obj\Debug\lambaitaplab.exe
+C:\Users\My pc\RiderProjects\lambaitaplab\lambaitaplab\obj\Debug\lambaitaplab.pdb
